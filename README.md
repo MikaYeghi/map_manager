@@ -12,7 +12,7 @@ This repo has been tested on ROS Melodic with Ubuntu 18.04 and ROS Noetic with U
 
 ```
 cd ~/catkin_ws/src
-git clone https://github.com/Zhefan-Xu/map_manager.git
+git clone https://github.com/MikaYeghi/map_manager.git
 
 cd ~/catkin_ws
 catkin_make
